@@ -1,1 +1,4 @@
 pygame
+mutagen
+cx_Freeze
+ttkthemes

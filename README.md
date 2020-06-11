@@ -18,6 +18,14 @@ or Execute:
 ExecuteMusicPlayer.cmd
 ```
 
+## Screenshots
+
+#### First:  
+![Screenshot](screenshots/screenshot01.png "Screen1")  
+  
+#### Second:  
+![Screenshot](screenshots/screenshot02.png "Screen1")
+
 ## Dependencies
 
 - Pygame (http://pygame.org)
